@@ -1,0 +1,28 @@
+{
+  "total_revenue_actual_$": 74202412069.54646,
+  "total_revenue_optimized_$": 76131363609.56042,
+  "total_improvement_$": 1928951540.0139618,
+  "improvement_percentage": 2.599580641941997,
+  "feasible_solutions_count": 8761,
+  "feasible_solutions_pct": 100.0,
+  "avg_flow_difference_m3_per_s": 3.465485210873713e-11,
+  "avg_power_difference_MW": -1.5519448988324172,
+  "total_hours_analyzed": 8761,
+  "by_TOU_period": {
+    "Mid-Peak": {
+      "actual_$": 16359738844.70538,
+      "optimized_$": 18190464022.519985,
+      "improvement_$": 1830725177.8146067
+    },
+    "Off-Peak": {
+      "actual_$": 36702187981.37647,
+      "optimized_$": 34167831879.94087,
+      "improvement_$": -2534356101.435601
+    },
+    "On-Peak": {
+      "actual_$": 21140485243.46461,
+      "optimized_$": 23773067707.099575,
+      "improvement_$": 2632582463.6349616
+    }
+  }
+}
